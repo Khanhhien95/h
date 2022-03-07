@@ -1,6 +1,6 @@
 # v2ray-heroku
 > 部署
-# 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/xuiv/v2ray-heroku)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/xuiv/v2ray-heroku)
+# 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/xuiv/v2ray-heroku)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/Khanhhien95/h)
 
 客户端config.json设置如下：
 ```
@@ -22,8 +22,8 @@
     "protocol": "vmess",
     "settings": {
       "vnext": [{
-        "address": "xxxx.herokuapp.com",
-        "port": 443,
+        "address": "nhonphuca.herokuapp.com",
+        "port": 80,
         "users": [{
           "id": "b831381d-6324-4d53-ad4f-8cda48b30811",
           "alterId": 64
